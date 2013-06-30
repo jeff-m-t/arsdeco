@@ -1,0 +1,20 @@
+[
+{
+  "modid": "ArsDeco",
+  "name": "Ars Deco",
+  "description": "Blocks, items and machines for adding some style to your builds",
+  "version": "@VERSION@",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "bliter8"
+  ],
+  "credits": "By bliter8",
+  "logoFile": "/mods/ee3/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
